@@ -1,0 +1,100 @@
+{
+    "infos":{
+       "filmes":[
+          {
+             "titulo":"Trem noturno para Lisboa",
+             "ano_lancamento":2013,
+             "elenco_principal":[
+                "Jeremy Irons",
+                "Bruno Ganz",
+                "Lena Olin",
+                "Christopher Lee"
+             ],
+             "tipo":[
+                "Mistério",
+                "Romance",
+                "Thriller"
+             ],
+             "sinopse":"Raimund Gregorius, um professor suíço, salva uma mulher portuguesa que se preparava para pular de uma ponte em Berna, na Suíça. Repentinamente, a mulher desaparece, deixando seu casaco para trás. No bolso de sua roupa esquecida, ele encontra um livro de um autor português, Amadeu do Prado, e um bilhete de trem para Lisboa com data desse mesmo dia. Ele resolve, então, sair de sua rotina e embarca rumo a um destino desconhecido."
+          },
+          {
+             "titulo":"Adoráveis Mulheres",
+             "ano_lancamento":2020,
+             "elenco_principal":[
+                "Saoirse Ronan",
+                "Emma Watson",
+                "Florence Pugh"
+             ],
+             "tipo":[
+                "Drama",
+                "Romance"
+             ],
+             "sinopse":"As irmãs Jo (Saoirse Ronan), Beth (Eliza Scanlen), Meg (Emma Watson) e Amy (Florence Pugh) amadurecem na virada da adolescência para a vida adulta enquanto os Estados Unidos atravessam a Guerra Civil. Com personalidades completamente diferentes, elas enfrentam os desafios de crescer unidas pelo amor que nutrem umas pelas outras."
+          },
+          {
+             "titulo":"tick, tick...boom!",
+             "ano_lancamento":2021,
+             "elenco_principal":[
+                "Andrew Garfield",
+                "Alexandra Shipp",
+                "Vanessa Hudgens",
+                "Robin de Jesús",
+                "Joshua Henry",
+                "Bradley Whitford",
+                "Tariq Trotter",
+                "Judith Light"
+             ],
+             "tipo":[
+                "Drama",
+                "Teatro",
+                "Musical"
+             ],
+             "sinopse":"Prestes a completar 30 anos, um compositor promissor lida com o amor, a amizade e a pressão para criar algo incrível antes que o tempo acabe."
+          }
+       ],
+       "livros":[
+          {
+             "titulo":"Aurora: O despertar da mulher exausta</titulo",
+             "ano_lancamento":2022,
+             "tipo":[
+                "Cultura Popular",
+                "Política",
+                "Ciências Sociais"
+             ],
+             "numero_paginas":288
+          },
+          {
+             "titulo":"Sidarta",
+             "ano_lancamento":1922,
+             "tipo":[
+                "Filosofia",
+                "Ficção Religiosa"
+             ],
+             "numero_paginas":176
+          },
+          {
+             "titulo":"A cor púrpura",
+             "ano_lancamento":1982,
+             "tipo":[
+                "Literatura",
+                "Ficção"
+             ],
+             "numero_paginas":336
+          }
+       ],
+       "comidas":[
+          {
+             "nome":"Pão de queijo",
+             "ingredientes":"polvilho azedo, 800 g de polvilho azedo, água, 1 xícara de água, leite, 1 xícara de leite, óleo, 1/2 xícara de óleo, ovo, 2 ovos, queijo parmesão, 100 g de queijo parmesão ralado, sal, sal a gosto"
+          },
+          {
+             "nome":"Pizza",
+             "ingredientes":"1/2 kg de farinha de trigo, açúcar, 2 colheres (sopa) de açúcar, sal, 1/2 colher (sopa) de sal, água, 2 xícaras de água morna, fermento biológico seco, 1 saquinho de fermento biológico em pó, molho de tomate, 300 g de queijo mussarela em pedaços (não fatias), tomate, 3 tomates cortados em fatias, orégano a gosto"
+          },
+          {
+             "nome":"Yakisoba",
+             "ingredientes":"300 g de macarrão para yakisoba, cebola, 1 cebola grande picada em pedaços médios, óleo, 1 colher (sopa) de óleo, brócolis, 1/2 maço pequeno de brócolis, couve-flor, 1/2 maço pequeno de couve-flor, molho para yakisoba, 250 ml de molho para yakissoba, molho shoyu, 6 colheres (sopa) de molho shoyu, carne, 400 g de tirinhas de carne (mignon, patinho ou alcatra), cogumelo champignon, 100 g de champignon, cenoura, 1 cenoura cortada em diagonal, acelga, 4 folhas de acelga cortadas em diagonal"
+          }
+       ]
+    }
+ }
